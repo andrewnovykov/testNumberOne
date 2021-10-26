@@ -1,0 +1,6 @@
+{
+    "baseUrl":"https://www.mytime.com/mkp/40426",
+    "ignoreTestFiles": "**/examples/**/*",
+    "viewportHeight":768,
+    "viewportWidth": 1024
+}
